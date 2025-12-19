@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analysis Dashboard
+# 📊 Super_Store Analysis Dashboard
 
 > Comprehensive analysis of 9,995 transactions across United States markets (2014-2017)
 
