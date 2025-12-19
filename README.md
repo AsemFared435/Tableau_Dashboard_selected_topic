@@ -256,7 +256,7 @@ cd sales-analysis-dashboard
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername]((https://github.com/AsemFared435))
+- GitHub: [@yourusername]([https://github.com/AsemFared435])
 - LinkedIn: [Your Profile](https://www.linkedin.com/in/asem-ahmed-26a2b7274)
 
 ---
