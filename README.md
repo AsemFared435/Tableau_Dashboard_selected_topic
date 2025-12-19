@@ -250,7 +250,7 @@ Columns:
 
 - Dataset source: [Specify source]
 - Inspiration: Business intelligence best practices
-- Tools: Tableau/Power BI community
+- Tools: Tableau/CSV
 
 ---
 
