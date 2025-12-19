@@ -200,13 +200,13 @@ Q2 2014  ████                              $44,446 (Early Stage)
 ## 📸 Dashboard Screenshots
 
 ### Product & Profit Analysis
-![Product Analysis](link-to-screenshot-)
+![Product & profit Analysis](https://github.com/AsemFared435/Tableau_Dashboard_selected_topic/blob/main/Dashboard_img/product&profit%20analysis.png?raw=true)
 
 ### Revenue Analysis
-![Revenue Analysis](link-to-screenshot-2)
+![Revenue Analysis](https://github.com/AsemFared435/Tableau_Dashboard_selected_topic/blob/main/Dashboard_img/Revenue%20analysis.png?raw=true)
 
 ### Customer Analysis
-![Customer Analysis](link-to-screenshot-3)
+![Customer Analysis](https://github.com/AsemFared435/Tableau_Dashboard_selected_topic/blob/main/Dashboard_img/customer%20analysis.png?raw=true)
 
 ---
 
