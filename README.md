@@ -201,7 +201,7 @@ Q2 2014  ████                              $44,446 (Early Stage)
 ## 📸 Dashboard Screenshots
 
 ### Product & Profit Analysis
-![Product Analysis](link-to-screenshot-1)
+![Product Analysis](link-to-screenshot-)
 
 ### Revenue Analysis
 ![Revenue Analysis](link-to-screenshot-2)
