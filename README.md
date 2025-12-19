@@ -237,22 +237,6 @@ Columns:
 └── Profit
 ```
 
----
-
-## 🚀 Getting Started
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/sales-analysis-dashboard.git
-
-# Navigate to project directory
-cd sales-analysis-dashboard
-
-# Open dashboard file
-# (Tableau: dashboard.twbx / Power BI: dashboard.pbix)
-```
-
----
-
 ## 👨‍💻 Author
 
 **Your Name**
