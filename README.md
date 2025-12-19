@@ -190,9 +190,8 @@ Q2 2014  ████                              $44,446 (Early Stage)
 
 ## 🛠️ Technologies Used
 
-- **📊 Data Visualization**: Tableau / Power BI
-- **📈 Analytics**: Python, Pandas
-- **🗄️ Database**: SQL
+- **📊 Data Visualization**: Tableau
+- **📈 Analytics**: Excel
 - **📉 Statistical Analysis**: Excel
 - **🎨 Design**: Custom dashboard templates
 
