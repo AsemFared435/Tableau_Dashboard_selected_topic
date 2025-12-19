@@ -256,16 +256,11 @@ cd sales-analysis-dashboard
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername]((https://github.com/AsemFared435))
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/asem-ahmed-26a2b7274)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
