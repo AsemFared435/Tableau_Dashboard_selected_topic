@@ -236,14 +236,22 @@ Columns:
 └── Profit
 ```
 
-## 👨‍💻 Author
 
-**Your Name**
-- GitHub:[@yourusername](https://github.com/AsemFared435)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/asem-ahmed-26a2b7274)
+## 👥 Contributors
+This project was a collaborative effort.
 
+* **Asem Farid** - Data Analyst
+    * [GitHub](https://github.com/AsemFared435)
+    * [LinkedIn](https://www.linkedin.com/in/asem-ahmed-26a2b7274)
+
+* **Mostafa Nasser** - Data Analyst
+    * [GitHub](https://github.com/moustafa-nasser)
+    * [LinkedIn](https://www.linkedin.com/in/mostafa-nasser-876442322/)
+
+* **Hassen Hamed** - Data Analyst
+    * [GitHub](https://github.com/HassanZoghly)
+    * [LinkedIn](https://www.linkedin.com/in/hassan-zoghly/)
 ---
-
 
 ## 🙏 Acknowledgments
 
